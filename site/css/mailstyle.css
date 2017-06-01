@@ -1,0 +1,25 @@
+.titulos{
+	color:#016cd3;
+	margin-top: 50%;
+	margin-bottom: 50%;
+}
+input{
+	float: right;
+	width: 85%
+}
+td{
+	padding: 5px 0px 5px 0px;
+}
+button{
+	background-color: #fff;
+	border:0;
+
+}
+button > img{
+	 width:20px;
+	 margin-top: 8px;
+}
+td> button > img{
+	 width:25px;
+	 margin-top: 8px;
+}

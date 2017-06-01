@@ -1,2 +1,2 @@
 # colprog
-Academic Website
+Academic Website Developed By: Brayan Novoa.
